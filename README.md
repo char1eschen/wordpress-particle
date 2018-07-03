@@ -1,1 +1,1 @@
-# wordpress-particle
+# wordpress theme - Particle
